@@ -1,4 +1,4 @@
-# AWS-CHALICE
+# PYTHON-CHALICE-AWS
 ### STUDY
 
 Creation Date: 31/03/2022
